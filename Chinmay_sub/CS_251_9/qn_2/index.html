@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+function validate_form(){
+	
+	var x1 = document.forms["myForm"]["Name"].value;
+	var regex1 = new RegExp("^[a-z A-Z]*$");
+    if (!(regex1.test(x1)) || !(x1.length<=20))
+    {
+        alert("Invalid Name!");
+        return false;
+    }
+
+    var x2 = document.forms["myForm"]["Address"].value;
+    if(!(x2.length<=100))
+    {
+    	alert("Address too large!");
+    	return false;
+    }
+
+    var x3 = document.forms["myForm"]["Email"].value;
+    var regex2 = new RegExp("^[a-zA-Z]*[@][a-zA-Z]*[\.com]");
+    if(!(regex2.test(x3)))
+    {
+    	alert("Invalid email!");
+    	return false;
+    }
+
+    var x4 = document.forms["myForm"]["number"].value;
+    var regex3 = new RegExp("^[0-9]{10}$");
+    if(!(regex3.test(x4)))
+    {
+    	alert("Invalid Mobile Number!");
+    	return false;
+    }
+
+	var x5 = document.forms["myForm"]["pass"].value;
+    var regex4 = new RegExp("^[0-9a-zA-Z]{1,20}$");
+    if(!(regex4.test(x5)))
+    {
+    	alert("Invalid Password!");
+    	return false;
+    }    
+}
+</script>
+
+<style>
+#data {
+	margin: auto;
+	width: 10%;
+/*	height: 300px;
+	margin-left: 400px;*/
+	margin-top: 150px;
+	font-size: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div id = "data">
+	<form name="myForm" id="ins" action="" onsubmit="return validate_form()" method="post">
+	  Name:<br>
+	  <input type="text" name="Name">
+	  <br>
+	  Address:<br>
+	  <input type="text" name="Address">
+	  <br>
+	  E-mail:<br>
+	  <input type="email" name="Email">
+	  <br>
+	  Mobile Number:<br>
+	  <input type="number" name="number">
+	  <br>
+	  Bank Account Number:<br>
+	  <input type="number" name="Account_number">
+	  <br>
+	  Password:<br>
+	  <input type="password" name="pass">
+	  <br><br>
+	  <input type="submit" value="Submit">
+	</form>
+<div>
+
+</body>
+</html>

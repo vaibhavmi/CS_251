@@ -1,0 +1,181 @@
+Script started on Friday 26 January 2018 07:58:47 AM IST
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ [K]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ animals[K[K[K[K[K[K[Kdeclare -A animas [K[Kls = [K[K[K=( ["'[Kmoo"[C[C[C[C[C]="cow" )
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ echo$([K{qn[K[Kanimals[moo])[K}
+echocow: command not found
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ echo${animals[moo]} ${animals[moo]}[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+cow
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ [K]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ ls
+[0m[01;32mqn1.sh[0m  [01;32mqn2.sh[0m  typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ cat typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ filr [K[Ke typescript
+typescript: empty
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ ./qn1.sh 
+./qn1.sh: line 23: syntax error near unexpected token `('
+./qn1.sh: line 23: `func scnd()'
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ ./qn1.sh 
+763472
+sevenlakh sixty threethousand fourhundred seventy two]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ ./qn1.sh 
+62873
+sixty two thousand eight hundred seventy three ]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ \[K
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ ls -d 
+[0m[01;34m.[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ cd .
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples/160767[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples/160767[00m$ cd ..
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ls
+[0m[01;34m160767[0m      [01;32mbasics.sh[0m         [01;32mdo_report.sh[0m    [01;32mexpressions-strict.sh[0m  [01;32mvala.sh[0m
+[01;31m160767.zip[0m  [01;32mbeyond_report.sh[0m  [01;32mexpressions.sh[0m  Soln_1CS251 
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ lscd ..[Kls -d 
+[0m[01;34m.[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ cd ..
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ ls
+Asgn2.pdf
+Assignment 1 (modified).pdf
+assignment-1.pdf
+[0m[01;34mbash-examples[0m
+[01;31mbash-examples.tgz[0m
+Head_First_JavaScript_Programming_Eric_T_Freeman_Elisabeth_Robson(www.ebook-dl.com).pdf
+[01;31mvaibhav.tar.gz[0m
+[01;31mvaibhav.tar.gz.bz2[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ ls[K[Kls
+Asgn2.pdf
+Assignment 1 (modified).pdf
+assignment-1.pdf
+[0m[01;34mbash-examples[0m
+[01;31mbash-examples.tgz[0m
+Head_First_JavaScript_Programming_Eric_T_Freeman_Elisabeth_Robson(www.ebook-dl.com).pdf
+[01;31mvaibhav.tar.gz[0m
+[01;31mvaibhav.tar.gz.bz2[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ lscd ..
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls
+[0m[01;34ma[0m          [01;34mDownloads[0m                               [01;34mMusic[0m              [01;34mPictures[0m   [01;34mVideos[0m
+[01;34mDesktop[0m    examples.desktop                        [01;34mnode_modules[0m       [01;34mPublic[0m
+[01;34mDocuments[0m  [01;31mgoogle-chrome-stable_current_amd64.deb[0m  package-lock.json  [01;34mTemplates[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ lscd ..[3Plscd ..ls -d 
+[0m[01;34m.[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d  [K-1 \[K[K
+[0m[01;34m.[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -1 PWD/**
+ls: cannot access 'PWD/**': No such file or directory
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -1 PWD/**[K[C[Kl
+drwxr-xr-x 23 vaibhav vaibhav 4096 Jan 26 07:38 [0m[01;34m.[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -l1 PWD/**[1P PWD/**l PWD/**
+ls: cannot access 'PWD/**': No such file or directory
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -l PWD/**$PWD/**
+drwxrwxr-x  3 vaibhav vaibhav     4096 Jan 22 04:23 [0m[01;34m/home/vaibhav/a[0m
+drwxr-xr-x  2 vaibhav vaibhav     4096 Jan 16 15:19 [01;34m/home/vaibhav/Desktop[0m
+drwxr-xr-x  7 vaibhav vaibhav     4096 Jan 14 16:42 [01;34m/home/vaibhav/Documents[0m
+drwxr-xr-x  3 vaibhav vaibhav     4096 Jan 26 07:45 [01;34m/home/vaibhav/Downloads[0m
+-rw-r--r--  1 vaibhav vaibhav     8980 Dec 12 00:49 /home/vaibhav/examples.desktop
+-rw-rw-r--  1 vaibhav vaibhav 49564190 Dec  6 03:53 [01;31m/home/vaibhav/google-chrome-stable_current_amd64.deb[0m
+drwxr-xr-x  2 vaibhav vaibhav     4096 Dec 12 06:40 [01;34m/home/vaibhav/Music[0m
+drwxrwxr-x 13 vaibhav vaibhav     4096 Dec 23 12:11 [01;34m/home/vaibhav/node_modules[0m
+-rw-rw-r--  1 vaibhav vaibhav     2904 Dec 23 12:11 /home/vaibhav/package-lock.json
+drwxr-xr-x  2 vaibhav vaibhav     4096 Dec 12 06:40 [01;34m/home/vaibhav/Pictures[0m
+drwxr-xr-x  2 vaibhav vaibhav     4096 Dec 12 06:40 [01;34m/home/vaibhav/Public[0m
+drwxr-xr-x  2 vaibhav vaibhav     4096 Dec 12 06:40 [01;34m/home/vaibhav/Templates[0m
+drwxr-xr-x  2 vaibhav vaibhav     4096 Dec 12 06:40 [01;34m/home/vaibhav/Videos[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -l $PWD/**[1PPWD/**$PWD/**[C[1P $PWD/**1 $PWD/**
+[0m[01;34m/home/vaibhav/a[0m
+[01;34m/home/vaibhav/Desktop[0m
+[01;34m/home/vaibhav/Documents[0m
+[01;34m/home/vaibhav/Downloads[0m
+/home/vaibhav/examples.desktop
+[01;31m/home/vaibhav/google-chrome-stable_current_amd64.deb[0m
+[01;34m/home/vaibhav/Music[0m
+[01;34m/home/vaibhav/node_modules[0m
+/home/vaibhav/package-lock.json
+[01;34m/home/vaibhav/Pictures[0m
+[01;34m/home/vaibhav/Public[0m
+[01;34m/home/vaibhav/Templates[0m
+[01;34m/home/vaibhav/Videos[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls
+[0m[01;34ma[0m          [01;34mDownloads[0m                               [01;34mMusic[0m              [01;34mPictures[0m   [01;34mVideos[0m
+[01;34mDesktop[0m    examples.desktop                        [01;34mnode_modules[0m       [01;34mPublic[0m
+[01;34mDocuments[0m  [01;31mgoogle-chrome-stable_current_amd64.deb[0m  package-lock.json  [01;34mTemplates[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -1 $PWD/**[1P/**[1P/**[1P/**[1P/**D/**o/**w/**n/**[1P/**[1P/**[1P/**[1P/**[C/**h/**o/**m/**e/**[C/**v/**a/**i/**b/**h/**a/**v/**
+[0m[01;34m/home/vaibhav/a[0m
+[01;34m/home/vaibhav/Desktop[0m
+[01;34m/home/vaibhav/Documents[0m
+[01;34m/home/vaibhav/Downloads[0m
+/home/vaibhav/examples.desktop
+[01;31m/home/vaibhav/google-chrome-stable_current_amd64.deb[0m
+[01;34m/home/vaibhav/Music[0m
+[01;34m/home/vaibhav/node_modules[0m
+/home/vaibhav/package-lock.json
+[01;34m/home/vaibhav/Pictures[0m
+[01;34m/home/vaibhav/Public[0m
+[01;34m/home/vaibhav/Templates[0m
+[01;34m/home/vaibhav/Videos[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ ls -d -1 /home/vaibhav/**[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdc S[K[K[K[Kcd S[KDo
+Documents/ Downloads/ 
+]0;vaibhav@vaibhav-Inspiron-7460: ~[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~[00m$ cd Do[3Plscd Do[Kcd Downloads/
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ cd bash-examples/
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ls
+[0m[01;34m160767[0m      [01;32mbasics.sh[0m         [01;32mdo_report.sh[0m    [01;32mexpressions-strict.sh[0m  [01;32mvala.sh[0m
+[01;31m160767.zip[0m  [01;32mbeyond_report.sh[0m  [01;32mexpressions.sh[0m  Soln_1CS251 
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ cd /[K.,[K.
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ ls
+Asgn2.pdf
+Assignment 1 (modified).pdf
+assignment-1.pdf
+[0m[01;34mbash-examples[0m
+[01;31mbash-examples.tgz[0m
+Head_First_JavaScript_Programming_Eric_T_Freeman_Elisabeth_Robson(www.ebook-dl.com).pdf
+[01;31mvaibhav.tar.gz[0m
+[01;31mvaibhav.tar.gz.bz2[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads[00m$ lscd ..[3Plscd bash-examples/
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ls
+[0m[01;34m160767[0m      [01;32mbasics.sh[0m         [01;32mdo_report.sh[0m    [01;32mexpressions-strict.sh[0m  [01;32mvala.sh[0m
+[01;31m160767.zip[0m  [01;32mbeyond_report.sh[0m  [01;32mexpressions.sh[0m  Soln_1CS251 
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "soln_1CS251" ]];
+> bash: syntax error: unexpected end of file
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "soln_1CS251" ]];ls[Kif [[ -d "soln_1CS251" ]];[KBASH[K[K[K[Kbash
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ./qu2.sh /home/vaibhav/Documents/[1Pwnloadsls -1a[K[K./qu2.sh /home/vaibhav/Downloadsls[K -1a./qu2.sh /home/vaibhav/Downloadscuments/[Kif [[ -d "soln_1CS251
+> bash: unexpected EOF while looking for matching `"'
+bash: unexpected argument to conditional unary operator
+bash: syntax error: unexpected end of file
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "soln_1CS251" ]];
+> bash: syntax error: unexpected end of file
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ script 
+Script started, file is typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ./qu2.sh /home/vaibhav/Documents/[1Pwnloadscuments/[Kif [[ -d :[K"soln_CS251"1CS251"[C[C[C[C[C[C ]];
+> bash: syntax error: unexpected end of file
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "soln_1CS251" ]];[K
+> then
+> echo "vaibhav"
+> fi
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "soln_1CS251" ]]; then echo "vaibhaav"; fi[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "soln_1CS251" ]]; then echo "vaibhav[1P[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cf "soln_1CS251" ]]; then echo "vaibha[1@v[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[C[C
+
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ file sol[K[K[K[K[K[K[K[Kexit
+exit
+Script done, file is typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ file soln[K[K[K[K[K[K[K[K[Kexit
+exit
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ bashif [[ -d "soln_1CS251" ]];bash[K[Kfile soln_1CS251
+soln_1CS251: cannot open `soln_1CS251' (No such file or directory)
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ ls
+[0m[01;34m160767[0m      [01;32mbasics.sh[0m         [01;32mdo_report.sh[0m    [01;32mexpressions-strict.sh[0m  typescript
+[01;31m160767.zip[0m  [01;32mbeyond_report.sh[0m  [01;32mexpressions.sh[0m  Soln_1CS251            [01;32mvala.sh[0m
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ lsfile soln_1CS251bash[Kif [[ -d "soln_1CS251" ]];ls[Kcd bash-examples/ls[Kif [[ -d "soln_1CS251" ]];bash[Kfile soln_1CS251ls[K[Kscript
+Script started, file is typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ exit[Kexitscript if [[ -d "soln_1CS251" ]];[K" ]];[1P[1@S[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+> bash: syntax error: unexpected end of file
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "Soln_1CS251" ]];exit[Kscript if [[ -d "soln_1CS251" ]];[Kexit[Kif [[ -f "soln_1CS251" ]]; then echo "vaibhaav"; fi[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cd
+[C[C[C[C[C[C[C[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cf
+[C[C[C[C[C[C[C[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cd
+[C[C[C[C[C[C[C[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cf
+[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coln_1CS251" ]]; then echo "vaibhav[1P[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[C[C[C[CSoln_1CS251" ]]; then echo "vaibha[1@v[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -f "Soln_1CS251" ]]; then echo "vaibhaav"; fi[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "Soln_1CS251" ]]; then echo "vaibhav[1P[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cd "Soln_1CS251" ]]; then echo "vaibha[1@v[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[C[C
+
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ if [[ -d "Soln_1CS251" ]]; then echo "vaibhaav"; fi[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cf
+[C[C[C[C[C[C[C[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[C[17Pd "Soln_1CS251" ]];
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf "Soln_1CS251" ]]; then echo "vaibhaav"; fi[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [C[C[C[C[C[C[Cd
+[C[C[C[C[C[C[C[A]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit
+exit
+Script done, file is typescript
+]0;vaibhav@vaibhav-Inspiron-7460: ~/Downloads/bash-examples[01;32mvaibhav@vaibhav-Inspiron-7460[00m:[01;34m~/Downloads/bash-examples[00m$ exit
+exit
+
+Script done on Friday 26 January 2018 09:03:02 AM IST
